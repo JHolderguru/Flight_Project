@@ -1,6 +1,6 @@
 from passenger import *
 from flight_trip import *
-from run_file import *
+from test_run_file import *
 
 seats = destination1
 number_of_seats = ('20')

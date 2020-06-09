@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 from flight_trip import *
 from passenger import *
 import sys
