@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from flight_trip import *
 from passenger import *
 import sys
@@ -66,3 +67,8 @@ while destination1.add_passenger != 'exit':
         new_flight
 # for passenger in new_flight.passenger_list:
 #     print(passenger.get_name())
+=======
+name = input('what is you name')
+
+print(name.capitalize())
+>>>>>>> origin/master
